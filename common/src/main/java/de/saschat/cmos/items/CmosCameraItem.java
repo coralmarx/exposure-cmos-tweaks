@@ -129,7 +129,8 @@ public class CmosCameraItem extends CameraItem {
 
     @Override
     public int calculateCooldownAfterShot(ItemStack stack, CaptureParameters captureParameters) {
-        return 100;
+        // IDK IF THIS WILL WORK AHHHH
+        return 10;
     }
 
     @Override
