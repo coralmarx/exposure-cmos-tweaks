@@ -1,5 +1,2 @@
-# Exposure: CMOS
-A community made addition for Exposure that adds computerized control
-
-# Documentation
-See the wiki
+# cmos tweaks
+delay, textures, etc. 
